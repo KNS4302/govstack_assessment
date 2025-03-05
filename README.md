@@ -43,3 +43,10 @@ This assessment implements the following components:
 4.  Review the submitted applications.
 5.  Approve or reject applications as appropriate.
 6.  Verify that approved applications are sent to the Farmlands Registry (you can verify this later from the Farmlands Registry).
+
+
+Group Members
+==========================
+1. Thembinkosi Themba Mkhonta
+2. Khethukuthula Nonsindiso Simelane
+3. Qhawe Simphiwe Matimela
